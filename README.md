@@ -1,5 +1,6 @@
 # Simple place app
 ![Platform](https://img.shields.io/badge/platform-android-brightgreen.svg) ![Min SDK](https://img.shields.io/badge/minSdk-v19-brightgreen.svg)
+<br/>
 Used google map api to show the location of the place.
 
 ## Screenshots
